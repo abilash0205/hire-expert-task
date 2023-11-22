@@ -1,2 +1,1 @@
-# Make a simple sidebar
-
+# React sidebar
